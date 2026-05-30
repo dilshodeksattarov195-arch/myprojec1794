@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authuecrypt",
+        "uuid": 3866070,
+        "checksum": "48g3hl"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
